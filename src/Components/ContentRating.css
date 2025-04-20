@@ -1,6 +1,6 @@
 /* ImageRatingComponent.css */
 
-.content-rating {
+.puntaje-contenido {
     text-align: center;
     margin-bottom: 20px;
     display: flex;
@@ -16,12 +16,12 @@
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   }
   
-  .rating-buttons {
+  .botones-puntaje {
     margin-top: 10px;
   }
   
-  .like-button,
-  .dislike-button {
+  .boton-me-gusta,
+  .boton-no-me-gusta {
     padding: 10px 20px;
     margin: 0 10px;
     font-size: 16px;
